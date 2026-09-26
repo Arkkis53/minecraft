@@ -1,0 +1,31 @@
+filename = 'WorldHeightLimit-v1.1.1-NeoForge-1.21.x.jar'
+name = 'World Height Limit'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11'
+]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.1.1+mc1.21.x'
+
+[download]
+hash = 'ec51bac5fcdd9a4bd2e5160611300b05a80f879bda8abfb4034d21d3e7fc199ae54ba2bbca65ba236c7cbb06aa2e6fc95c063c8972cc0f1faed3abd96a1dfe1f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3GjuEfk6/versions/etLT0fdQ/WorldHeightLimit-v1.1.1-NeoForge-1.21.x.jar'
+
+[update.modrinth]
+mod-id = '3GjuEfk6'
+version = 'etLT0fdQ'

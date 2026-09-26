@@ -1,0 +1,26 @@
+filename = 'aeronauticadditions_neoforge_mc_1.21.1-1.1.1.jar'
+name = 'Aeronautic Additions and ChunkLoader'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.1'
+
+[download]
+hash = 'aa6f18d7d09689df705a580ef8e8f72a5867fbb81462dd0982bfa322bdcfa5466ca5f5e1d306daef3d6597af7b2aad235f55dc5ec2a104a7e4391cb8f46cd631'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ui2FZZHS/versions/pndYasHC/aeronauticadditions_neoforge_mc_1.21.1-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'Ui2FZZHS'
+version = 'pndYasHC'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'oWaK0Q19'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+version = 'UjX6dr61'
